@@ -1,0 +1,21 @@
+{
+  "name": "integrity",
+  "version": "0.0.1",
+  "description": "Maintain referential integrity between JS objects",
+  "main": "integrity.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha -u bdd test/"
+  },
+  "author": "Christopher Hiller <chiller@badwing.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^1.9.1",
+    "grunt": "^0.4.5",
+    "mocha": "^1.21.4",
+    "sinon": "^1.10.3",
+    "sinon-chai": "^2.5.0"
+  }
+}
