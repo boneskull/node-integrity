@@ -2,6 +2,10 @@
 
 Maintain referential integrity between JS objects
 
+## Warning
+
+WIP
+
 ## Example
 
 General idea:
